@@ -1,0 +1,6 @@
+[submodule "L01-Observer"]
+	path = L01-Observer
+	url = https://github.com/Dekstro999/Puzzle
+[submodule "L02-Decorator"]
+	path = L02-Decorator
+	url = git@github.com:Dekstro999/Puzzle.git
