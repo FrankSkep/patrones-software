@@ -1,0 +1,3 @@
+customtkinter
+pdf2docx
+python-docx
