@@ -3,4 +3,13 @@
 	url = https://github.com/Dekstro999/Puzzle
 [submodule "L02-Decorator"]
 	path = L02-Decorator
-	url = git@github.com:Dekstro999/Puzzle.git
+	url = git@github.com:Dekstro999/God-Eyes.git
+[submodule "L03-Factory"]
+	path = L03-Factory
+	url = git@github.com:FrankSkep/ninja-souls.git
+[submodule "L04-Singleton"]
+	path = L04-Singleton
+	url = git@github.com:FrankSkep/browser-x.git
+[submodule "L05-Command"]
+	path = L05-Command
+	url = git@github.com:FrankSkep/todo-api.git
