@@ -51,4 +51,5 @@ if __name__ == "__main__":
     # === 5. Recorrido con iterador ===
     print("\n=== RECORRIDO CON ITERADOR (PROFUNDIDAD) ===")
     for component in FileSystemIterator(root):
-        print(f"Visitando: {component.name}")
+        tipo = "(Directorio)" if isinstance(component, Directory) else "(Archivo)"
+        print(f"Visitando: {component.name} {tipo}")
